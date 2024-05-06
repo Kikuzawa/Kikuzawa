@@ -74,9 +74,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">Stars</h3>
-<img align="left" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kikuzawa&layout=compact&theme=tokyonight" alt=Kikuzawa />
-<img align="left" height="130em" src="https://github-readme-stats.vercel.app/api?username=Kikuzawa&show_icons=true&locale=en&theme=tokyonight" alt="Kikuzawa" />
-<img align="left" height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kikuzawa&theme=tokyonight" alt="Kikuzawa" />
+
+<img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kikuzawa&layout=compact&theme=tokyonight" alt=Kikuzawa /><img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=Kikuzawa&show_icons=true&locale=en&theme=tokyonight" alt="Kikuzawa" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
