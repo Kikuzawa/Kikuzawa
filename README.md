@@ -38,6 +38,7 @@
 <li><b>How to reach me </b>kikuzawa-cyber@yandex.ru</li>
 <li><b>Fun fact:</b> I really like space</li>
 
+
 </div>
 
 </br>
@@ -47,7 +48,11 @@
 
 
 
+
+
+
 <div> <a href="https://github.com/Kikuzawa" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<div align="right"> Tanusha </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -95,7 +100,7 @@
 <div align="center">  
   <img src="https://panels.twitch.tv/panel-721326178-image-a4ebd525-26e6-4b53-aa1d-c795c206a0ad" width="170px" height="100px">
   
-  <b>Donate / Tip: </b> <a href="https://yoomoney.ru/fundraise/12I4HLKQB95.240506" target="_blank"> Юмани </a></p>
+  <b>Donate / Tip: </b> <a href="https://yoomoney.ru/fundraise/12I4HLKQB95.240506" target="_blank"> Сбор <a> or <a href="https://yoomoney.ru/to/4100118670228375" target="_blank"> Юмани</p>
   
   
 </div>
